@@ -1,2 +1,3 @@
-# JavaScript-Manipuando-Elementos-DOM
- Repositório destinado ao curso de JavaScript: Mnaipulando elementos no DOM na plataforma da Alura
+# Project Fokus
+ Projeto criado através do curso: JavaScript: Manipulando elementos no DOM
+ Plataforma Alura
